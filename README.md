@@ -36,5 +36,3 @@ The repository is organized into daily progress folders as per the lab requireme
 - **Language**: Python 3.9+
 - **Key Concepts**: Task decomposition, function calling, and modular programming.
 
-## Academic Integrity
-This work was completed individually. [cite_start]External resources were used for learning, but all submitted code is original and understood[cite: 127].
